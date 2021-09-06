@@ -20,8 +20,9 @@ sudo apt install libxft-dev
 ```
 Installation
 ------------
+ ```c
  sudo make clean install
-    
+ ```   
 Running dmenu
 -------------
 See the man page for details.
