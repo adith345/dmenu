@@ -17,4 +17,9 @@ If You Using Zsh Shell Run This Commands
 ./install-zsh.sh
  ```
  If You Using Fish Then Run This Commands
+ ```c
+ 12  cd basic-dmenu
+ 13  chmod +x install-bash.sh
+ 14 ./install-fish.sh
+ 15  ```
 
